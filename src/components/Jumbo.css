@@ -1,0 +1,22 @@
+.jumbo {
+	background-image: url('https://images.unsplash.com/photo-1463320726281-696a485928c7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ym9va3N0b3JlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	opacity: 0.9;
+}
+p {
+	font-weight: 600 !important;
+	color: white;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 3rem;
+}
+.display-3 {
+	font-weight: 700;
+	font-size: 6rem;
+	color: black;
+}
+footer > p {
+	color: gray;
+	font-size: 1rem;
+}
